@@ -1,0 +1,32 @@
+homepage: "https://stape.io/"
+versions:
+  - sha: c82826eaa467ef37868913232bcbaee8da29ba49
+    changeNotes: Update dataLayer push UI.
+  - sha: babdcc899d9b6651a646d660018653923ecdfae5
+    changeNotes: Update dataLayer push UI.
+  - sha: 4db792ff55044f83a7dc53986da138a5044d0b93
+    changeNotes: Add response dataLayer push feature.
+  - sha: fb1e40e9ed67710d740fd9777353da1023e88183
+    changeNotes: Update UA compatibility.
+  - sha: d6bbe18327efedbd29a8411ae8471e57e31db4f8
+    changeNotes: Add required data to URL for POST type request.
+  - sha: 55831742327c807310adbbf529eb7d83c0719625
+    changeNotes: Update DataLayer parser.
+  - sha: 198b1bcadbadb760092f0470ed6034b54ae7a87a
+    changeNotes: Update send data method.
+  - sha: 13b71a1440e44e726dd5b394dfb582a762d3eb6f
+    changeNotes: Fixed DataLayer parsing issue.
+  - sha: 05a73617b9563ed32703ceacdd85db8f3ae2b2ad
+    changeNotes: Add Auto Preview Header.
+  - sha: 7cee3544d17e43cb62b44e675f64e5db9b027dd5
+    changeNotes: Add auto request type.
+  - sha: 630a4aaa1d5556d7370a04a826deeb48618c8f4d
+    changeNotes: Add data store functionality.
+  - sha: 95d42bda5fce25db520c9fd8131dd0616a267eb3
+    changeNotes: Move to Stape. Update parameter parsing.
+  - sha: 167e76600a45a3f977ca20204c45b65e7454fecc
+    changeNotes: Add md5 data transformation option.
+  - sha: 2cc7595f464a12892747c95cd7e55c9f29eb03ae
+    changeNotes: Change domain parameter to URL and add more validation rules.
+  - sha: 87c00be55d94e2e4c1253faf47d9854223f96784
+    changeNotes: Initial release.
