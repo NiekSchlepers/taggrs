@@ -1,6 +1,6 @@
 # Taggrs Data Tag
 
-Data Tag developed for sending requests from GTM Web Container to GTM Server Side Container [Data client](https://github.com/stape-io/data-client).
+Data Tag developed for sending requests from GTM Web Container to GTM Server Side Container [Data client].
 
 With the help of Data Tag, you can send any information from the Web Containers to the Server Containers.
 
@@ -11,7 +11,3 @@ Common data contains: `page_location, page_hostname, page_referrer, page_title, 
 ## How to use Data tag
 
 - [Sending Data From Google Tag Manager Web Container to Server Container]
-
-## Open Source
-
-Data Tag for Google Tag Manager Web container is developing and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
